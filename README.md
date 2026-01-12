@@ -2,10 +2,9 @@
 
 > Building focused, production-ready software and tools — one project at a time.
 
-Welcome! This repository houses the GitHub profile README for the developmentepicinfocus account. Use this README as your profile landing page (create a repo named `developmentepicinfocus` and place this file in its root) or adapt it per-repository.
 
 ## About
-I build practical, maintainable software with an emphasis on clarity, testing, and delivering value quickly. My work spans web and backend services, automation, and developer tooling.
+We build practical, maintainable software with an emphasis on clarity, testing, and delivering value quickly. Our work spans web and backend services, automation, and developer tooling.
 
 ## Featured projects
 - **project-a** — Short description of what it does and why it matters.  
@@ -21,7 +20,7 @@ I build practical, maintainable software with an emphasis on clarity, testing, a
 - DevOps & CI/CD: GitHub Actions, Docker
 - Testing: Jest, Pytest, integration tests
 
-## How to get started / Explore my work
+## How to get started / Explore our work
 1. Browse repositories pinned to the profile or the Projects section.
 2. Check each repo's README for setup and contribution instructions.
 3. For most projects:
@@ -30,23 +29,23 @@ I build practical, maintainable software with an emphasis on clarity, testing, a
    - Run tests: `npm test` / `pytest`
 
 ## Contributing
-I welcome contributions!
+We welcome contributions!
 - Open an issue to discuss major changes before working on them.
 - Fork, create a branch, and submit a pull request with a clear description.
 - Follow the code style, add tests for new behavior, and ensure CI passes.
 
 ## Contact
 - GitHub: [developmentepicinfocus](https://github.com/developmentepicinfocus)
-- Email: your.email@example.com (replace with preferred contact)
+- Email: info@epicinfocus.com
 
 ## License
 Most projects are licensed under the MIT License — check each repository for specifics.
 
 ---
 
-If you want, I can:
+If you want, We can:
 - Populate the "Featured projects" with your actual repo names and descriptions,
 - Generate badges (CI, license, coverage),
 - Produce a shorter bio or localized versions.
 
-Tell me which you'd like next and I’ll update the README accordingly.
+Tell us which you'd like next and We’ll update the README accordingly.
